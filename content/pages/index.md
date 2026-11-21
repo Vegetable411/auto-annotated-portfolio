@@ -8,6 +8,6 @@ backgroundImage:
   url: /images/10.jpg
   backgroundSize: cover
   backgroundPosition: center
-  backgroundRepeat: repeat
+  backgroundRepeat: no-repeat
   opacity: 100
 ---
