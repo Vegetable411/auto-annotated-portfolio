@@ -5,7 +5,7 @@ colors: colors-a
 sections: []
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/10.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: repeat
