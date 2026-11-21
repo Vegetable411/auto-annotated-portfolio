@@ -6,7 +6,7 @@ sections: []
 backgroundImage:
   type: BackgroundImage
   url: /images/10.jpg
-  backgroundSize: cover
+  backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
